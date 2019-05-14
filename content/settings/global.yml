@@ -1,9 +1,6 @@
-siteTitle: Yellow Cake
+siteTitle: masak.io
 siteUrl: 'https://yellowcake.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+siteDescription: SNSに展開したときのやつですよーん
 socialMediaCard:
-  image: >-
-    https://ucarecdn.com/5548ebd2-4fbc-40d6-a2c1-74f70a1a1489/-/crop/2592x1527/0,0/-/preview/
+  image: 'https://ucarecdn.com/27f40cee-8aa9-4be7-b376-21b4b715c538/'
 googleTrackingId: ''
