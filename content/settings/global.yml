@@ -2,5 +2,6 @@ siteTitle: masak.io
 siteUrl: 'https://yellowcake.netlify.com'
 siteDescription: SNSに展開したときのやつですよーん
 socialMediaCard:
-  image: 'https://ucarecdn.com/27f40cee-8aa9-4be7-b376-21b4b715c538/'
+  image: >-
+    https://ucarecdn.com/27f40cee-8aa9-4be7-b376-21b4b715c538/-/crop/1080x729/0,170/-/preview/
 googleTrackingId: ''
