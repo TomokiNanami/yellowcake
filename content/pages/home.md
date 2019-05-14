@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: masak.io
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/d0a1baea-85bb-41fa-9b18-50abd749e4d4/'
 subtitle: Software Engineer
 accordion: []
 meta:
