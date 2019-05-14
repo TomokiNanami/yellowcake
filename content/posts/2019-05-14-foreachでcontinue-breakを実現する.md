@@ -16,8 +16,8 @@ javascriptのforEach()では、for文のような`continue`や`break`といっ�
 そこでどうやってこれらを実現するか。
 
 ### 結論
-&emsp; `continue`: `return`を使う。  
-&emsp; `break`: `some`関数を使う。
+- `continue`: `return`を使う。  
+- `break`: `some`関数を使う。
 
 ### 参考ソース
 continueの場合
