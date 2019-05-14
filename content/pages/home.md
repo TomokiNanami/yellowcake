@@ -6,9 +6,9 @@ featuredImage: 'https://ucarecdn.com/d0a1baea-85bb-41fa-9b18-50abd749e4d4/'
 subtitle: Software Engineer
 accordion: []
 meta:
-  description: This is a meta description.
+  description: SNSに展開されるやーつ
   noindex: false
-  title: The Ultimate Gatsby Starter
+  title: masak.io
 ---
 
 Yellowcake is an opinionated starter project created by Thrive Digital to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
