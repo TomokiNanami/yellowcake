@@ -12,8 +12,7 @@ meta: {}
 今までgetting_startedとかで何も考えずに`import, export`とか`require, export`を使っていたり、`tsconfig.js`の`module`をよくわからないまま指定していたので調べた。
 
 ### そもそもモジュールとは？
-Javascriptコードの保守性や再利用性を高めるためにjavascriptファイルから別のjavascriptファイルを読み込む仕組み
-仕様として今回の主題である**CommonJS**と**ESmodule**が定められている。
+Javascriptコードの保守性や再利用性を高めるためにjavascriptファイルから別のjavascriptファイルを読み込む仕組み。仕様として今回の主題である**CommonJS**と**ESmodule**が定められている。
 ### 今まではどうしていた？
 Javascriptファイルを読み込むために**scriptタグ**を使って読み込んでいた。これは読み込みの順番を気にしないといけなく面倒であった。
 ### CommonJSとは？
