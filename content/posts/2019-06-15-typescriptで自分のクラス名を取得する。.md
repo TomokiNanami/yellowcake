@@ -39,3 +39,6 @@ new Dollar().getClass();
 // 結果
 Dollar
 ```
+
+## 参考記事
+[Get an object's class name at runtime](https://stackoverflow.com/questions/13613524/get-an-objects-class-name-at-runtime/38669166#38669166)
