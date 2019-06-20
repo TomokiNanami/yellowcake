@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: Javascript
+title: JavaScript
 meta: {}
 ---
 
