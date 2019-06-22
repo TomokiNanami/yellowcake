@@ -79,8 +79,6 @@ export class Quantity {
 
 }
 ```
-<script src="https://gist.github.com/m-Suda/9c73e4be8f5062a4bd61166862fde985.js"></script>
-
 ### 実際にテストを書いた
 
 今回はインスタンス化のテストを書いた。  
