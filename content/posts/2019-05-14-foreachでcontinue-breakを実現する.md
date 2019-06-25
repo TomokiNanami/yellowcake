@@ -3,9 +3,9 @@ template: SinglePost
 title: 'forEachで''continue'', ''break''を実現する'
 status: Published
 date: 2019-05-14T14:32:41.797Z
-excerpt: 'javascript, forEach, some'
+excerpt: 'javaScript, forEach, some'
 categories:
-  - category: Javascript
+  - category: JavaScript
 meta:
   description: >-
     javascriptのforEach()では、for文のような`continue`や`break`といった仕組みはない。 
