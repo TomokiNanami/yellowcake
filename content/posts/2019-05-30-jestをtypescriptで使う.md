@@ -1,13 +1,13 @@
 ---
 template: SinglePost
-title: JestをTypescriptで使う
+title: JestをTypeScriptで使う
 status: Published
 date: 2019-05-30T12:21:55.267Z
 excerpt: 'Jest, Typescript'
 categories:
   - category: Javascript
   - category: Test Code
-  - category: Typescript
+  - category: TypeScript
 meta: {}
 ---
 前回はJestことはじめということでJavascriptコードのテストをおこなったが、今回はTypescriptバージョンを触っていく。  
