@@ -1,13 +1,13 @@
 ---
 template: SinglePost
-title: Docker上のExpressアプリ(Typescript)をPhpStormでDebugする
+title: Docker上のExpressアプリ(TypeScript)をPhpStormでDebugする
 status: Published
 date: 2019-06-05T14:35:17.262Z
-excerpt: 'Javascript, Typescript, Docker, PhpStorm, Debug'
+excerpt: 'Javascript, TypeScript, Docker, PhpStorm, Debug'
 categories:
   - category: IDE
   - category: Javascript
-  - category: Typescript
+  - category: TypeScript
 meta: {}
 ---
 Docker上のExpressアプリのデバッグ環境構築までなかなか手こずったのでメモ。
