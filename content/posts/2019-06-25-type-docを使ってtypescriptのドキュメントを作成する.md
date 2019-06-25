@@ -5,7 +5,7 @@ status: Published
 date: 2019-06-25T13:04:04.333Z
 excerpt: 'TypeScript, TYPE COD'
 categories:
-  - category: Typescript
+  - category: TypeScript
 meta: {}
 ---
 TypeScriptのドキュメント作成ツール、[TYPE DOC](https://typedoc.org/)を使ったドキュメント作成の手順。
