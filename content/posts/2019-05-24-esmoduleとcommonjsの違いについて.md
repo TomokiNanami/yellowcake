@@ -3,18 +3,18 @@ template: SinglePost
 title: ESmoduleとCommonJSの違いについて
 status: Published
 date: 2019-05-24T13:55:40.505Z
-excerpt: 'javascript, ESmodule, CommonJS'
+excerpt: 'JavaScript, ESmodule, CommonJS'
 categories:
-  - category: Javascript
+  - category: JavaScript
   - category: Node.js
 meta: {}
 ---
 今までgetting_startedとかで何も考えずに`import, export`とか`require, export`を使っていたり、`tsconfig.js`の`module`をよくわからないまま指定していたので調べた。
 
 ### そもそもモジュールとは？
-Javascriptコードの保守性や再利用性を高めるためにjavascriptファイルから別のjavascriptファイルを読み込む仕組み。仕様として今回の主題である**CommonJS**と**ESmodule**が定められている。
+JavaScriptコードの保守性や再利用性を高めるためにJavaScriptファイルから別のJavaScriptファイルを読み込む仕組み。仕様として今回の主題である**CommonJS**と**ESmodule**が定められている。
 ### 今まではどうしていた？
-Javascriptファイルを読み込むために**scriptタグ**を使って読み込んでいた。これは読み込みの順番を気にしないといけなく面倒であった。
+JavaScriptファイルを読み込むために**scriptタグ**を使って読み込んでいた。これは読み込みの順番を気にしないといけなく面倒であった。
 ### CommonJSとは？
 Node.jsの普及をきっかけに決められた標準API仕様。Node.jsのグローバル変数であるmodule変数を使って変数や関数をエクスポートする。`module.exports`プロパティに代入されたオブジェクトがエクスポートされる。読み込み方法は**`export`, `require`, グローバル変数である`module`**を利用する。
 ### ESmoduleとは？
