@@ -3,7 +3,7 @@ template: SinglePost
 title: 'forEachで''continue'', ''break''を実現する'
 status: Published
 date: 2019-05-14T14:32:41.797Z
-excerpt: 'javaScript, forEach, some'
+excerpt: 'javascript, forEach, some'
 categories:
   - category: JavaScript
 meta:
@@ -12,7 +12,7 @@ meta:
     そこでどうやってこれらを実現するか。...
   title: '【javascript】forEach()でcontinue, breakを実現する。'
 ---
-javascriptのforEach()では、for文のような`continue`や`break`といった仕組みはない。  
+JavaScriptのforEach()では、for文のような`continue`や`break`といった仕組みはない。  
 そこでどうやってこれらを実現するか。
 
 ### 結論
