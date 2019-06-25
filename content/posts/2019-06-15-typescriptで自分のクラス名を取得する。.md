@@ -1,11 +1,11 @@
 ---
 template: SinglePost
-title: Typescriptで自分のクラス名を取得する。
+title: TypeScriptで自分のクラス名を取得する。
 status: Published
 date: 2019-06-15T09:10:19.783Z
 excerpt: 'Typescript, getClass'
 categories:
-  - category: Typescript
+  - category: TypeScript
 meta: {}
 ---
 「テスト駆動開発」の本を実践している途中に、Javaの`getClass()`メソッドを使う箇所が出てきたが、Typescriptにはそういうメソッドは無い。そのため自作する必要が出てきた。  
