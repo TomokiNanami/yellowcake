@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: Typescript
+title: TypeScript
 meta: {}
 ---
 
